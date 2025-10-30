@@ -1,0 +1,40 @@
+# Selecting a BISAC Code
+
+
+## The Two-Step Process
+
+
+**Step 1:** Determine the major heading that best describes the content of your book. Click on one of the headings listed on the [Complete BISAC Subject Heading](http://bisg.org/page/BISACEdition) page fr more specific headings within that category.
+
+Once you've selected a major heading (for example, [Fiction](http://bisg.org/page/Fiction)) you move onto step 2:
+
+**Step 2:** Determine the specific term that describes your book. In reviewing the choices, note that an asterisk (*) identifies a heading that is new for the current edition.
+
+At this point, you select a heading on the [Fiction](http://bisg.org/page/Fiction) page that best represents the subject matter in your book. For example, if you have written or are publishing a police procedural mystery, you would select: "FIC022020 FICTION / Mystery & Detective / Police Procedural".
+
+## What if my book has more than one subject matter?
+
+You may select more than one subject code. BISG best practices recommend that you select no more than three BISAC codes for any title. Choosing fewer than three is also best practice, when the codes chosen fully describe the book.
+
+For this example, you are trying to find the right BISAC codes for a book on Charles Lindbergh. The book is a biography about his life, so you select as the primary subject code "BIO034000 BIOGRAPHY & AUTOBIOGRAPHY / Aviation & Nautical". There are more subjects in the book, though, so you would like to select at least two other codes. 
+
+Since Charles Lindbergh is a well-known historic figure for aviation, you select the code "TRA002010  TRANSPORTATION / Aviation / History" to express this. Another well-known part of his life, and a feature in the book, is the abduction of his son, so you also select "TRU006000  TRUE CRIME / Abductions, Kidnappings & Missing Persons" to show this.
+
+To summarize, you use the following codes:
+
+- BIO034000 BIOGRAPHY & AUTOBIOGRAPHY / Aviation & Nautical
+- TRA002010  TRANSPORTATION / Aviation / History
+- TRU006000  TRUE CRIME / Abductions, Kidnappings & Missing Persons
+
+As noted above, if you would like to select only one of these codes, you are welcome to do so. 
+
+## How do I pick a primary code?
+
+As noted above, the first code that appears is the primary code. The primary code should be the **main subject** of the book. In the above example, this book's main focus was the life of Charles Lindbergh in regards to his place in aviation history. However, had the main focus of the book been his child's abduction, then the code "TRU006000  TRUE CRIME / Abductions, Kidnappings & Missing Persons" would have been a better selection. 
+
+## Avoid Using "General"
+
+BISG also recommends that you use the most specific codes possible for your book. The practice of supplying both a specific and a general subject heading on a given product is discouraged; use of the most specific heading possible is strongly encouraged. For example, for your police procedural mystery, you would **not** want to use "FIC022020 FICTION / Mystery & Detective / Police Procedural" _and_ "FIC022000 FICTION / Mystery & Detective / General".
+
+The more specific the codes, the more useful it is to you and your book. 
+
