@@ -1,0 +1,368 @@
+ANTIQUES & COLLECTIBLES
+Use subjects in this section for works about collecting the objects specified and/or for works on the history of these objects if they are not covered in other sections (such as ART).  For works discussing the techniques used to make the objects listed in this section, use subjects from the appropriate section (such as CRAFTS & HOBBIES).
+
+Multiple subjects may be used to describe a work fully: for example, a book about the restoration of antique furniture could be assigned "ANTIQUES & COLLECTIBLES / Furniture" and "ANTIQUES & COLLECTIBLES / Care & Restoration".
+
+---
+
+ARCHITECTURE
+Use subjects in this section for historical works and/or for works aimed at professional architects.  For similar works aimed at nonprofessionals, use subjects in the HOUSE & HOME section.  For works concerning the technical or trade aspects of construction, use subjects beginning with "TECHNOLOGY & ENGINEERING / Construction". 
+
+Use subjects beginning with "ARCHITECTURE / Interior Design" for works that discuss the architectural design of an interior space and use "HOUSE & HOME / Decorating & Furnishings" for works that discuss the arrangement of objects within an interior space.
+
+---
+
+ART
+Use subjects in this section for historical works or for works discussing technique from a fine art (as opposed to craft) viewpoint.  For works about collecting art or art objects, use subjects in the ANTIQUES & COLLECTIBLES section.  For works discussing technique from a craft viewpoint, use subjects in the CRAFTS & HOBBIES section.  For works on general principles of design that can be applied to various disciplines (such as art, architecture, crafts, and technology), use subjects in the DESIGN section.
+
+Use subjects beginning with "ART / Techniques" for works on the techniques involved within a given discipline and use subjects beginning with "ART / History" for works consisting largely of reproductions of artworks and/or works on the history of art.  Be aware that some disciplines have an unsubdivided term and a related term beginning with "ART / Techniques" (e.g., "ART / Sculpture & Installation" and "ART / Techniques / Sculpting"). In these cases, the unsubdivided term should be used for pictorials and works on the history of that discipline and not for books on technique.
+
+Subjects beginning with "ART / Subjects & Themes" are generally meant to be used for works discussing and/or illustrating the subjects and themes specified; however, these subjects can also be assigned to works on the techniques used to produce art depicting these subjects and themes.  If a subject beginning with "ART / Subjects & Themes" is used in this way, it is recommended that a subject beginning with "ART / Techniques" be assigned as well.
+
+Use "ART / Color Theory" for theoretical works on color and use "ART / Techniques / Color" for practical works on techniques for using color in art.
+
+--- 
+
+BIBLES
+Use subjects in this section only for those collections of sacred writings of Christianity that comprise the Old Testament and/or the New Testament.  For works about specific aspects of the Bible, use subjects beginning with "RELIGION / Biblical Biography", "RELIGION / Biblical Commentary", "RELIGION / Biblical Criticism & Interpretation", "RELIGION / Biblical Meditations", "RELIGION / Biblical Reference", or "RELIGION / Biblical Studies".
+
+For Bibles that include several translations, use subjects beginning with "BIBLES / Multiple Translations".  If the Bible translation needed is not specifically included by name, use subjects beginning with "BIBLES / Other Catholic Translations", "BIBLES / Other English Translations", "BIBLES / Other Non-English Translations" or "BIBLES / Other Spanish Translations".  If the Bible translation is unknown, use "BIBLES / General".
+
+Juvenile Bibles should be assigned subjects within the BIBLES section of the appropriate translation followed by the subsubheading "Children" or "Youth & Teen".  Individual stories from the Bible geared toward juveniles should be assigned a subject beginning with "JUVENILE NONFICTION / Religion / Bible Stories".
+
+---
+
+BUSINESS & ECONOMICS
+Use economic-oriented subjects in this section for works discussing economics from a theoretical or historical viewpoint.  For works discussing economic policy, use economic-oriented subjects in the POLITICAL SCIENCE section.
+
+Use "BUSINESS & ECONOMICS / Management" for works on the principles of management and use "BUSINESS & ECONOMICS / Management Science" for works on the application of systemic, logical, and mathematical methods to solve managerial problems.
+
+Use subjects beginning with "BUSINESS & ECONOMICS / E-Commerce" for works discussing the business aspects of electronic commerce and use "COMPUTERS / Electronic Commerce" for works on the computer skills and technology needed to facilitate electronic commerce.
+
+--- 
+
+COMICS & GRAPHIC NOVELS
+Use subjects in this section for works of sequential illustration in the style commonly associated with "comic books" or "comic strips."
+
+Use subjects beginning with "JUVENILE FICTION / Comics & Graphic Novels" and "JUVENILE NONFICTION / Comics & Graphic Novels" or "YOUNG ADULT FICTION / Comics & Graphic Novels" and "YOUNG ADULT NONFICTION / Comics & Graphic Novels"for such works aimed at young readers.
+
+Use subjects beginning "COMICS & GRAPHIC NOVELS / East Asian Style" for works initially published in Asian territories, or for works published in the style of such Asian works.  Subjects specific to Manga can be found in headings beginning with "COMICS & GRAPHIC NOVELS / East Asian Style / Manga".  For Manga works with a broader subject, use subjects outside of the Manga tree and "COMICS & GRAPHIC NOVELS / East Asian Style / Manga / General".  For example, a Manga graphic novel about Sports would get both "COMICS & GRAPHIC NOVELS / Sports" and "COMICS & GRAPHIC NOVELS / East Asian Style / Manga / General".  The subjects "COMICS & GRAPHIC NOVELS / East Asian Style / Manhua", "COMICS & GRAPHIC NOVELS / East Asian Style / Manhwa", and "COMICS & GRAPHIC NOVELS / European Style (incl. Bandes Dessinées)" can be better described by using an additional genre found within the "COMICS & GRAPHIC NOVELS" section.
+
+For nonfiction works about sequential illustration and about those works done in that format, use "LITERARY CRITICISM / Comics & Graphic Novels".
+
+Use "COMICS & GRAPHIC NOVELS / Media Tie-In" when a new ISBN is created and this ISBN represents one of the following:
+
+a work (or works) of sequential illustration re-issued because of a movie, television show, or other media project
+a comics/graphic novel adaptation of a movie, television show, or other media project
+a comics/graphic novel based on an episode (or episodes) of a television show
+an original story (or collection of stories) told in comics/graphic novel form using characters or settings from (or based on) a movie, television show, or other media project
+Existing ISBNs that become the basis for a movie, television show, or media project do not have to be re-coded.  It is recommended that when "COMICS & GRAPHIC NOVELS / Media Tie-In" is used, another subject be assigned as well.
+
+---
+
+COMPUTERS
+Use "COMPUTERS / Electronic Commerce" for works on the computer skills and technology needed to facilitate electronic commerce and use subjects beginning with "BUSINESS & ECONOMICS / E-Commerce" for works discussing the business aspects of electronic commerce.
+
+---
+
+COOKING
+Multiple subjects may be used to describe a work fully: for example, a book about low-salt Chinese seafood cooking could be assigned "COOKING / Regional & Cultural / Chinese", "COOKING / Health & Healing / Low Salt" and "COOKING / Specific Ingredients / Seafood".
+
+---
+
+CRAFTS & HOBBIES
+Use subjects in this section for works discussing technique from a craft (as opposed to fine art) viewpoint and/or for works on the history of the objects specified if they are not covered in other sections (such as ANTIQUES & COLLECTIBLES or ART).  For works discussing technique from a fine art viewpoint, use subjects in the ART section.
+
+Use "CRAFTS & HOBBIES / Woodwork" for works on small-scale woodworking aimed at hobbyists and use "HOUSE & HOME / Do-It-Yourself / Carpentry" for works dealing mainly with large-scale household projects.
+
+---
+
+DESIGN
+Use subjects in this section for works on general principles of design that can be applied to various disciplines (such as art, architecture, crafts, and technology) and for works on design in a field, or of an object, that is not usually considered a fine art (e.g., "DESIGN / Graphic Arts / Advertising" or "DESIGN / Furniture"). 
+
+Use "DESIGN / Textile & Costume" for works about fabrics and costume and use "DESIGN / Fashion & Accessories" for works about style and clothing.
+
+---
+
+DRAMA
+Use subjects in this section only for dramatic works written for the stage.  Subjects may be used alone (for individual works or collections by one author) or with "DRAMA / Anthologies (multiple authors)".
+
+Critical works should be assigned "LITERARY CRITICISM / Drama" and any other subjects needed in the LITERARY CRITICISM section (and should not be assigned any subjects in the DRAMA section).  Note the existence of the subheading "Shakespeare" in both the DRAMA and LITERARY CRITICISM sections.
+
+Use subjects beginning with "PERFORMING ARTS / Theater" for works on drama as performed on the stage and use "PERFORMING ARTS / Screenplays" for dramatic works written for film or television.
+
+Subjects with a place or group of people, e.g., "DRAMA / American / Hispanic & Latino" or "DRAMA / Canadian" are intended for works written by authors commonly identified as being from the country or region specified.  They are not meant to indicate the setting or language (original or translated) of a work.  For multinational authors, or authors not associated with the country in which they were born, use your discretion in deciding which location the author is most commonly identified with.       
+
+---
+
+EDUCATION
+Subjects beginning with "EDUCATION / Teaching / Subjects" are intended for works discussing methods of teaching the subject specified or for materials used for teaching that subject.  For works discussing methods of studying and/or teaching a topic not covered under "EDUCATION / Teaching / Subjects", use the "Study & Teaching" subheading in the appropriate section (such as ARCHITECTURE).  If a topic is represented in both places, use subjects beginning with "EDUCATION / Teaching / Subjects" to cover works discussing teaching through secondary school level and use "Study & Teaching" subheadings for higher level works.
+
+Use subjects in the STUDY AIDS section or in other sections for works on studying for specific tests or for works about specific topics.
+
+---
+
+FAMILY & RELATIONSHIPS
+Use subjects in this section for works written to help people deal with issues involving child-rearing or relationships.  For scholarly works, serious lay studies, or works aimed at psychology professionals, use subjects in the PSYCHOLOGY section.  For works written from a sociological viewpoint, use subjects in the SOCIAL SCIENCE section.
+
+---
+
+
+FICTION
+Use subjects in this section only for individual works of fiction or for collections of fiction.  Critical works should be assigned subjects in the LITERARY CRITICISM section (and should not be assigned any subjects in the FICTION section).
+
+"FICTION / Anthologies (multiple authors)" and "FICTION / Short Stories (single author)" may be used with other subjects as appropriate: for example, a collection of ghost stories by several authors could be assigned "FICTION / Ghost" and "FICTION / Anthologies (multiple authors)" (it is recommended that the subject describing the genre be assigned first).  Note that several genres have a subsubheading of "Collections & Anthologies", thus lessening the need for multiple coding. 
+
+"FICTION / Classics" and "FICTION / Literary" should be used at the classifier's discretion to denote works generally considered to be classics or of literary value.
+
+Use "FICTION / Media Tie-In" when a new ISBN is created and this ISBN represents one of the following:
+
+a work (or works) of fiction re-issued because of a movie/television show
+a novelization of a movie
+a novelization (or collection of stories) based on an episode (or episodes) of a television show
+an original story (or collection of stories) using characters or settings from (or based on) a movie/television show
+Existing ISBNs that become the basis for a movie or television show do not have to be re-coded.  It is recommended that when "FICTION / Media Tie-In" is used, another subject be assigned as well.
+
+"FICTION / Own Voices" is intended for works where the main characters(s) are from a marginalized, minority, or under-represented group and where the author is a member of the group being written about.
+
+"FICTION / Women" is intended for fictional narratives centered on women and their struggles, which eventually lead to their personal growth.  The heading is not intended to be used to describe the author of the work or the targeted audience of the work.
+
+Subjects beginning with "FICTION / World Literature" are intended for works written by authors commonly identified as being from the country or region specified.  They are not meant to indicate the setting or language (original or translated) of a book.  For example, "FICTION / World Literature / Portugal" would be used for works by authors from Portugal (and not for authors from other Portuguese-speaking countries) regardless of the language or setting of the book.  For multinational authors, or authors not associated with the country in which they were born, use your discretion in deciding which location the author is most commonly identified with.
+
+---
+GARDENING
+Use subjects in this section for works on practical operations in the cultivation of fruits, vegetable, flowers, and ornamental plants.  For works on the commercial cultivation of fruits, vegetables, nuts, and ornamental plants, use "SCIENCE / Life Sciences / Horticulture".  For works aimed at farmers or agronomists, use subjects beginning with "TECHNOLOGY & ENGINEERING / Agriculture".
+
+Under the "Regional" subheading, state abbreviations have been provided as a guide, but users should not feel constrained by them.  For example, CA is found in the "West (AK, CA, CO, HI, ID, MT, NV, UT, WY)" subsubheading, but a book dealing specifically with northern California could be assigned the "Pacific Northwest (OR, WA)" subsubheading.  Similarly, all of Canada is covered by one subsubheading, but a book dealing with British Columbia could also be assigned the "Pacific Northwest (OR, WA)" subsubheading.
+
+---
+
+HEALTH & FITNESS
+Use subjects in this section for works aimed at nonprofessionals.  For scholarly works and/or works aimed at medical or health care professionals, use subjects in the MEDICAL section.
+
+Subjects beginning with "HEALTH & FITNESS / Diseases & Conditions" are intended for popular works that discuss preventing or coping with a specific disease or condition and/or for popular works describing the experiences of people with a specific disease or condition.  For scholarly or professional works discussing diseases, use subjects in the MEDICAL section that pertain to the branch of medicine that studies the disease in question (if no specific branch of medicine applies, use subjects in the MEDICAL section for the specific disease or type of disease): for example, a textbook about cancer would be assigned a heading beginning with "MEDICAL / Oncology"; a clinical work on AIDS research would be assigned "MEDICAL / AIDS & HIV".
+
+---
+
+HISTORY
+Multiple subjects in this and other sections may be used to describe a work fully: for example, a book about the Spanish Civil War could be assigned "HISTORY / Europe / Spain" and "HISTORY / Military / Civil Wars"; a book about U.S. diplomacy in the 19th century could be assigned "HISTORY / United States / 19th Century" and "POLITICAL SCIENCE / International Relations / Diplomacy".
+
+---
+
+HOUSE & HOME
+ Use subjects in this section for works aimed at nonprofessionals.  For historical works and/or works aimed at architects or design professionals, use subjects in the ARCHITECTURE section.  For works concerning the technical or trade aspects of construction, use subjects beginning with "TECHNOLOGY & ENGINEERING / Construction".
+
+Use "HOUSE & HOME / Do-It-Yourself / Carpentry" for works dealing mainly with large-scale household projects and use "CRAFTS & HOBBIES / Woodwork" for works on small-scale woodworking aimed at hobbyists.
+
+---
+
+HUMOR
+Use subjects in this section only for individual works of humor or for collections of humor.  Critical works should be assigned "LITERARY CRITICISM / Humor" and any other subjects needed in the LITERARY CRITICISM section (and should not be assigned any subjects in the HUMOR section).
+
+Subjects containing the subheading "Form" and subjects containing the subheading "Topic" may both be assigned to the same work as needed.
+
+---
+
+JUVENILE FICTION
+Juvenile Fiction refers to works of children’s fiction intended for children (ages 0-11; preschool-grade 6).  Works of children’s or juvenile fiction should be assigned subjects in this section only.  Collections containing both juvenile fiction and juvenile nonfiction may also be assigned subjects in the JUVENILE NONFICTION section.
+
+Works of fiction intended for young adults (ages 12-18; grades 7-12) should be assigned subjects from the YOUNG ADULT FICTION section. 
+
+Critical works intended for adults should be assigned "LITERARY CRITICISM / Children's & Young Adult Literature" and any other subjects needed in the LITERARY CRITICISM section (and should not be assigned any subjects in the JUVENILE FICTIONsection).  Critical works intended for children should be assigned "JUVENILE NONFICTION / Literary Criticism & Collections".
+
+Use "JUVENILE FICTION / Media Tie-In" when a new ISBN is created and this ISBN represents one of the following:
+
+a work (or works) of fiction re-issued because of a movie/television show
+a novelization of a movie
+a novelization (or collection of stories) based on an episode (or episodes) of a television show
+an original story (or collection of stories) using characters or settings from (or based on) a movie/television show
+Existing ISBNs that become the basis for a movie or television show do not have to be re-coded.  It is recommended that when "JUVENILE FICTION / Media Tie-In" is used, another subject be assigned as the primary subject.
+
+Use subjects containing the literal "Indigenous Peoples of Turtle Island" for works about Indigenous people in Canada.  Turtle Island is a name for Earth or North America, preferred by some Indigenous peoples.  The name is based on a common North American Indigenous creation story and in some cultures is synonymous with "North America."
+
+---
+
+JUVENILE NONFICTION
+Juvenile Nonfiction refers to works of children’s nonfiction intended for children (ages 0-11; preschool-grade 6).  Works of children’s or juvenile nonfiction should be assigned subjects in this section only.  Collections containing both juvenile nonfiction and juvenile fiction may also be assigned subjects in the JUVENILE FICTION section.
+
+"Drama" and "Literary Criticism & Collections" subheadings for juvenile works are found in this section.
+
+Works of nonfiction intended for young adults (ages 12-18; grades 7-12) should be assigned subjects from the YOUNG ADULT NONFICTION section.
+
+Critical works intended for adults should be assigned "LITERARY CRITICISM / Children's & Young Adult Literature" and any other subjects needed in the LITERARY CRITICISM section (and should not be assigned any subjects in the JUVENILE NONFICTIONsection).  Critical works intended for children should be assigned "JUVENILE NONFICTION / Literary Criticism & Collections".
+
+Use "JUVENILE NONFICTION / Media Tie-In" when a new ISBN is created and this ISBN represents a work (or works) of nonfiction based on a movie or television show.  It is recommended that when "JUVENILE NONFICTION / Media Tie-In" is used, another subject be assigned as the primary subject.
+
+Use subjects containing the literal "Indigenous Peoples of Turtle Island" for works about Indigenous people in Canada.  Turtle Island is a name for Earth or North America, preferred by some Indigenous peoples.  The name is based on a common North American Indigenous creation story and in some cultures is synonymous with "North America."
+
+---
+
+LANGUAGE ARTS & DISCIPLINES
+Use subjects in this section for general works on language, for works about the English language in particular, or for works on disciplines closely related to language arts.  For works about specific languages other than English, or about English as a second language, use subjects in the LANGUAGE STUDY section.
+
+---
+
+LANGUAGE STUDY
+Use subjects in this section for works about the languages specified, whether these works are of an instructional, historical, or linguistic nature.  Do not use subjects in this section to indicate the language of a work: works should be classified based on their subject content without regard to the language in which they are written (of course, if a work is about a language and written in that language, a subject in this section should be assigned).
+
+---
+
+LITERARY COLLECTIONS
+Use subjects in this section for collections that include two or more literary forms (e.g., fiction and poetry) or consist of a literary form that does not have its own section (e.g., essays).  Collections of works in a literary form that has its own section (drama, fiction, juvenile fiction, juvenile nonfiction, poetry) should be assigned subjects in the appropriate section.
+
+Because the FICTION section is arranged by genre, if a geographic breakdown is desired for a collection of fiction, an exception to the above rule can be made and subjects may be assigned in both the FICTION and LITERARY COLLECTIONS sections.
+
+Subjects with a place or group of people, e.g., "LITERARY COLLECTIONS / American / Hispanic & Latino" or "LITERARY COLLECTIONS / Canadian" are intended for collections by authors commonly identified as being from the country or region specified.  They are not meant to indicate the setting or language (original or translated) of a work.  For multinational authors, or authors not associated with the country in which they were born, use your discretion in deciding which location the author is most commonly identified with.
+
+---
+
+LITERARY CRITICISM
+Works of literary criticism should be assigned subjects in this section only and not assigned subjects in sections designed for works written in a specific literary form (e.g., DRAMA).  Criticism of drama, poetry, or children's literature should be assigned "LITERARY CRITICISM / Drama", "LITERARY CRITICISM / Poetry" or "LITERARY CRITICISM / Children's & Young Adult Literature", respectively, along with any other subjects needed in this section.  Criticism of certain genres of fiction is also represented.
+
+---
+
+MEDICAL
+Use subjects in this section for scholarly works and/or for works aimed at medical or health care professionals.  For works aimed at nonprofessionals, use subjects in the HEALTH & FITNESS section.
+
+Scholarly or professional works discussing diseases should be assigned subjects in this section that pertain to the branch of medicine that studies the disease in question (if no specific branch of medicine applies, use subjects in this section for the specific disease or type of disease): for example, a textbook about cancer would be assigned a subject beginning with "MEDICAL / Oncology"; a clinical work on AIDS research would be assigned "MEDICAL / AIDS & HIV".  Subjects beginning with "HEALTH & FITNESS / Diseases & Conditions" are intended for popular works that discuss preventing or coping with a specific disease or condition and/or for popular works describing the experiences of people with a specific disease or condition.
+
+Use "MEDICAL / History" for works on the history of medicine and use "MEDICAL / Medical History & Records" for works dealing with the medical history and records of patients.
+
+Use "MEDICAL / Nursing / Home & Community Care" for works on nursing that occurs outside of a traditional medical facility (either at a patient's home or within the community) and use "MEDICAL / Nursing Home Care" for works on nursing homes and nursing home care.
+
+---
+
+NATURE
+For subheadings that overlap those in the SCIENCE section, use subjects in this section for works aimed at a lay audience and use subjects in the SCIENCE section for scholarly works and/or works aimed at professionals.
+
+---
+
+PERFORMING ARTS
+Use subjects beginning with "PERFORMING ARTS / Theater" for works on drama as performed on the stage and use "PERFORMING ARTS / Screenplays" for dramatic works written for film or television.  Use subjects in the DRAMA section for dramatic works written for the stage.
+
+---
+
+PHOTOGRAPHY
+Multiple subjects in this and other sections may be used to describe a work fully: for example, a book of Mexican travel photography could be assigned "TRAVEL / Mexico" and "PHOTOGRAPHY / Subjects & Themes / Regional".
+
+Subjects beginning with "PHOTOGRAPHY / Subjects & Themes" are generally meant to be used for works containing photographs relating to the subjects and themes specified; however, these subjects can also be used for works on the techniques used to take photographs of these subjects and themes.  If a subject beginning with "PHOTOGRAPHY / Subjects & Themes" is used in this way, it is recommended that a subject beginning with "PHOTOGRAPHY / Techniques" be assigned as well.
+
+---
+
+POETRY
+Use
+ subjects in this section only for poetic works.  Subjects may be used alone (for individual works or collections by one author) or with "POETRY / Anthologies (multiple authors)".
+
+Critical works should be assigned "LITERARY CRITICISM / Poetry" and any other subjects needed in the LITERARY CRITICISMsection (and should not be assigned any subjects in the POETRY section).
+
+As of Version 2.2, the geographic subheadings in this section are available for single-author or multiple-author collections.  Subjects with a place or group of people, e.g., "POETRY / American / Hispanic & Latino" or "POETRY / Canadian" are intended for works by authors commonly identified as being from the country or region specified.  They are not meant to indicate the setting or language (original or translated) of a work.  For multinational authors, or authors not associated with the country in which they were born, use your discretion in deciding which location the author is most commonly identified with.
+
+---
+
+POLITICAL SCIENCE
+Use
+ economic-oriented subjects in this section for works discussing economic policy.  For works discussing economics from a theoretical or historical viewpoint, use economic-oriented subjects in the BUSINESS & ECONOMICS section.
+
+Multiple subjects in this and other sections may be used to describe a work fully: for example, a book about the 2020 U.S. presidential election could be assigned "POLITICAL SCIENCE / Political Process / Campaigns & Elections" and "HISTORY / United States / 21st Century".
+
+Use "POLITICAL SCIENCE / Public Policy / Social Services & Welfare" for works dealing with government administration of social programs and use "SOCIAL SCIENCE / Social Work" for works of an instructional, theoretical, or historical nature.
+
+---
+
+PSYCHOLOGY
+Use subjects in this section for scholarly works, serious lay studies, or works aimed at psychology professionals.  For works primarily intended to help people deal with personal issues or problems, use subjects in the FAMILY & RELATIONSHIPS or SELF-HELP sections.
+
+---
+
+REFERENCE
+Use subjects in this section for works of a general nature or for works about the topics found in this section (note that there is a subheading "Reference" in most other sections and some sections also have a subheading "Dictionaries & Terminology"). 
+
+Subjects in this section may be used with those in other sections for reference works on topics not found in this section, but it is recommended that topical subjects be assigned first: for example, a bibliography of medical books could be assigned "MEDICAL / Reference" and "REFERENCE / Bibliographies & Indexes"; a bibliography of books about pediatrics could be assigned "MEDICAL / Pediatrics", "MEDICAL / Reference" and "REFERENCE / Bibliographies & Indexes".
+
+---
+
+RELIGION
+This section consists of subjects dealing with religions and religious topics, with several religions having topical subsubheadings.  For cases where a topical subsubheading needed is not found under a specific religion, it is recommended that the topical subheading be assigned first, followed by the specific religion to which this topic pertains.  For example, "RELIGION / Fundamentalism" would be assigned first, followed by "RELIGION / Christianity / General" or "RELIGION / Islam / General" (as appropriate).
+
+Use subjects in the BIBLES section for versions of the Bible and use subjects beginning with "RELIGION / Biblical Biography", "RELIGION / Biblical Commentary", "RELIGION / Biblical Criticism & Interpretation", "RELIGION / Biblical Meditations", "RELIGION / Biblical Reference", or "RELIGION / Biblical Studies" for works about the Bible.REL000000   RELIGION / general
+
+---
+
+SCIENCE
+For subheadings that overlap those in the NATURE section, use subjects in this section for scholarly works and/or works aimed at professionals and use subjects in the NATURE section for works aimed at a lay audience.
+
+For subheadings that overlap those in the TECHNOLOGY & ENGINEERING section, use subjects in this section for works of a theoretical or historical nature and use subjects in the TECHNOLOGY & ENGINEERING section for works dealing with practical applications.
+
+---
+
+SELF-HELP
+Use subjects in this section for works on personal growth or works aimed at helping people deal with personal problems, including mental illnesses and dependencies.  For works written to help people deal with issues involving child rearing or relationships, use subjects in the FAMILY & RELATIONSHIPS section.  For scholarly works, serious lay studies, or works aimed at psychology professionals, use subjects in the PSYCHOLOGY section.
+
+---
+
+SOCIAL SCIENCE
+For subheadings that overlap those in the FAMILY & RELATIONSHIPS section, use subjects in this section for works written from a sociological viewpoint and use subjects in the FAMILY & RELATIONSHIPS section for works written to help people deal with issues involving child rearing or relationships.
+
+Use "SOCIAL SCIENCE / Criminology" for works discussing the causes, detection, and prevention of crime and use subjects in the TRUE CRIME section for historical works and/or works primarily intended for the general public.
+
+Use "SOCIAL SCIENCE / Social Work" for works of an instructional, theoretical, or historical nature and use "POLITICAL SCIENCE/ Public Policy / Social Services & Welfare" for works dealing with government administration of social programs.
+
+---
+
+STUDY AIDS
+Use subjects in this section for works on the tests (or types of tests) listed, for study aids about the topics listed, for works of the type listed, or for works written to help an individual select an institute of higher education and finance his or her education.  For general works about studying, use "STUDY AIDS / Study & Test-Taking Skills".
+
+Subjects in this section may be used with those in other sections for study aids on topics not found in this section, but it is recommended that topical subjects be assigned first: for example, a work about studying for an advanced placement test in calculus could be assigned "MATHEMATICS / Calculus" and "STUDY AIDS / Advanced Placement".
+
+
+---
+
+TECHNOLOGY & ENGINEERING
+
+For subheadings that overlap those in the SCIENCE section, use subjects in this section for works dealing with practical applications and use subjects in the SCIENCE section for works of a theoretical or historical nature.
+
+Use subjects beginning with "TECHNOLOGY & ENGINEERING / Agriculture" for works aimed at farmers or agronomists (or for general works on the specified topics).  For works on practical operations in the cultivation of fruits, vegetables, flowers, and ornamental plants, use subjects in the GARDENING section.  For works on the commercial cultivation of fruits, vegetables, nuts, and ornamental plants, use "SCIENCE / Life Sciences / Horticulture".
+
+Use subjects beginning with "TECHNOLOGY & ENGINEERING / Construction" for works concerning the technical or trade aspects of construction.  For historical works and/or works aimed at architects or design professionals, use subjects in the ARCHITECTUREsection.  For similar works aimed at nonprofessionals, use subjects in the HOUSE & HOME section.
+
+---
+
+TRUE CRIME
+Use subjects in this section for historical works and/or works primarily intended for the general public.  For works discussing the causes, detection, and prevention of crime, use "SOCIAL SCIENCE / Criminology".
+
+---
+
+YOUNG ADULT FICTION
+Works of young adult fiction (ages 12-18; grades 7-12) should be assigned subjects in this section only.  Collections containing both young adult fiction and young adult nonfiction may also be assigned subjects in the YOUNG ADULT NONFICTION section.
+
+Works of fiction intended for children (ages 0-11; preschool-grade 6) should be assigned subjects from the JUVENILE FICTION section.
+
+Critical works intended for adults should be assigned "LITERARY CRITICISM / Children's & Young Adult Literature" and any other subjects needed in the LITERARY CRITICISM section (and should not be assigned any subjects in the YOUNG ADULT FICTIONsection).  Critical works intended for young adults should be assigned "YOUNG ADULT NONFICTION / Literary Criticism & Collections".
+
+Use "YOUNG ADULT FICTION / Media Tie-In" when a new ISBN is created and this ISBN represents one of the following:
+
+a work (or works) of fiction re-issued because of a movie/television show
+a novelization of a movie
+a novelization (or collection of stories) based on an episode (or episodes) of a television show
+an original story (or collection of stories) using characters or settings from (or based on) a movie/television show
+Existing ISBNs that become the basis for a movie or television show do not have to be re-coded.  It is recommended that when "YOUNG ADULT FICTION / Media Tie-In" is used, another subject be assigned as the primary subject.
+
+"YOUNG ADULT FICTION / Own Voices" is intended for works where the main characters(s) are from a marginalized, minority, or under-represented group and where the author is a member of the group being written about.
+
+Use subjects containing the literal "Indigenous Peoples of Turtle Island" for works about Indigenous people in Canada.  Turtle Island is a name for Earth or North America, preferred by some Indigenous peoples.  The name is based on a common North American Indigenous creation story and in some cultures is synonymous with "North America."
+
+---
+
+YOUNG ADULT NONFICTION
+Works of young adult nonfiction (ages 12-18; grades 7-12) should be assigned subjects in this section only. Collections containing both young adult nonfiction and young adult fiction may also be assigned subjects in the YOUNG ADULT FICTION section. 
+
+"Drama" and "Literary Criticism & Collections" subheadings for young adult works are found in this section.
+
+Works of nonfiction intended for children (ages 0-11; preschool-grade 6) should be assigned subjects from the JUVENILE NONFICTION section.
+
+Critical works intended for adults should be assigned "LITERARY CRITICISM / Children's & Young Adult Literature" and any other subjects needed in the LITERARY CRITICISM section (and should not be assigned any subjects in the YOUNG ADULT NONFICTION section).  Critical works intended for young adults should be assigned "YOUNG ADULT NONFICTION / Literary Criticism & Collections".
+
+Use "YOUNG ADULT NONFICTION / Media Tie-In" when a new ISBN is created and this ISBN represents a work (or works) of nonfiction based on a movie or television show.  It is recommended that when "YOUNG ADULT NONFICTION / Media Tie-In" is used, another subject be assigned as the primary subject.
+
+Use subjects containing the literal "Indigenous Peoples of Turtle Island" for works about Indigenous people in Canada.  Turtle Island is a name for Earth or North America, preferred by some Indigenous peoples.  The name is based on a common North American Indigenous creation story and in some cultures is synonymous with "North America."
+
